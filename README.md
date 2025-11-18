@@ -46,6 +46,5 @@ insights, and reduced reporting time with automated ETL pipelines.
 
 ## 📫 Connect With Me
 
-📧 Email: *\[Add yours\]*\
-💼 LinkedIn: *\[Add your link\]*\
-📁 Portfolio / GitHub: *\[Add your link\]*
+📧 Email: *\ganesh29032004@gmail.com*\
+💼 LinkedIn: *\https://www.linkedin.com/in/ganeshsriram29*\
