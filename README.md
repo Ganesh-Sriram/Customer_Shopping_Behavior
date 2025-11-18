@@ -41,10 +41,11 @@ A complete SQL-driven analysis covering:
 -   Purchase patterns by gender, age, and subscription status
 
 **Tech Used:** SQL, Python, Power BI
+
 **Outcome:** Identified high-value customer clusters, improved targeting
 insights, and reduced reporting time with automated ETL pipelines.
 
 ## 📫 Connect With Me
 
-📧 Email: *ganesh29032004@gmail.com*
+📧 Email: *ganesh29032004@gmail.com* \
 💼 LinkedIn: *https://www.linkedin.com/in/ganeshsriram29*
